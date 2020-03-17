@@ -1,0 +1,16 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale",
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "staxel.characters.accessories.rewards.JamieExecMask",
+  "kind": "Hat",
+  "model": "staxel/characters/accessories/rewards/JamieExecMask.qb",
+  "searchable": true,
+  "subcategory": "hat",
+  "categories": [
+    "reward",
+    "mask",
+    "unique"
+  ]
+}
