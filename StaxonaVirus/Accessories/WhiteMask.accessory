@@ -1,0 +1,23 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidMale",
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.StaxonaVirus.toketsu.WhiteMask",
+  "kind": "Hat",
+  "model": "mods/StaxonaVirus/Accessories/WhiteMask.qb",
+  "searchable": true,
+  "subcategory": "hat",
+  "categories": [
+    "reward",
+    "mask",
+    "unique"
+  ]
+  "searchable": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": false,
+    "sellPrice": 600,
+    "value": 1000
+  }
+}

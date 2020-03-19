@@ -3,7 +3,7 @@
   "categories": [
     "furniture"
   ],
-  "code": "mods.mb.StaxonaVirus.lydocia.ToiletPaper.[0]",
+  "code": "mods.mb.StaxonaVirus.lydocia.ToiletPaper.Roll",
   "pricing": {
     "buyable": true,
     "catalogueUnlockedFromStart": true,
@@ -11,5 +11,5 @@
     "value": 100
   },
   "searchable": true,
-  "voxels": "mods/StaxonaVirus/tp/Roll.qb"
+  "voxels": "mods/StaxonaVirus/ToiletPaper/Roll.qb"
 }
