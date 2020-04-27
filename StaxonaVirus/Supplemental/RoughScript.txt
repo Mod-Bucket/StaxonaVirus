@@ -1,0 +1,74 @@
+<player>,The flu this year is supposed to be extra nasty, so I've made arrangements for a doctor to come by and take care of the town. She'll need an office to work out of though, so could you set something up? Maybe put it near the airship docks so she can check people coming into town. 
+Thanks <player>,Max
+
+---------*get totem*
+
+*Totem built. Dr Ceecee arrives. Trusty arrives* 
+
+Dr. Ceecee:
+
+Hello, I'm Dr Ceecee. Are you the one who set this up for me? 
+> Yes.
+	Thankyou. It's very professionally done.
+> Nope.
+	Huh. Well, I'm sure I'll see whomever it was eventually.
+
+	Well, the mayor asked me to give everyone a checkup. So you might as well be the guinea pig. Any physical complaints? Feeling ill at all? Fever or anything that you know of? <Gives thermometer. Takes thermometer> turn your head and cough please. 	Hmm. Yes. Deep breath now. Excellent. (Some emotes or movement here)
+	Well you seem to be in fine health at the moment, but the Staxona virus has proven to be quite nasty and has caused the deaths of many people on some of the other islands. 
+	The kingdom is recommending that people self isolate for several weeks if they have symptoms like tiredness, fever or a dry cough. If you develop problems breathing you should come see me immediately. The virus spreads through droplets like from sneezing or coughing.
+	The real problem is that you can be contagious for two weeks before you show symptoms. As such, It's best to use a mask when in public. <Gives mask recipes> Try both and see which one works best for you. Be sure to make one and wear it to protect other people, Even if you don't feel ill. Do you have any questions?
+
+>How can I avoid getting sick?
+	The best way to protect yourself is to practice proper hygiene. Don't touch your face or eyes with your hands. Wash your hands regularly, before going outside, and immediately after coming inside. Avoid touching things commonly handled by people like buttons or doorknobs. Stay two meters away from other people.
+
+>Wash my hands?
+	Use hot water and soap <gives soap> when washing and make sure to scrub vigorously. Do it for as long as it takes you to sing happy birthday twice. Scrubbing under water with soap helps remove the debris of any dead or damaged organisms on your skin and also helps remove live ones.
+
+>What about hand sanitizer?
+	Hand sanitizer is not as good as soap and water. It will kill organisms but not remove them. <Gives sanitizer> but it's better than nothing if you can't find soap and water.
+
+>How can I help other people?
+	Elderly people in particular are more vulnerable and have a higher risk of death, so you'll want to avoid max, Rowan and Vorlen if you can. Be strict with your hygiene before and after interacting with them. Keep a distance of two metres from other people and stay home as much as possible. Definitely stay home if you feel ill. It might feel like a sniffle to you, but it could kill someone else.
+
+>Are you related to Cecile? (Only available if cecile is on the island.)
+	Completely unrelated. We're not sisters pulled apart at a young age by a terrible tragedy.
+	
+>I'm done.
+
+Dr. Ceecee on return visits:
+	Hello. Still feeling ok? Did you need something?
+>Self isolation
+>Mask
+>Avoid getting sick
+>Washing hands
+>Sanitizer
+>How to help
+>I'm done.
+
+Trusty:
+	You look like the sturdy, reliable sort. Can you do me a favor?
+>Nope.
+	Come back if you want some work.	
+>Sure.
+	I need some toilet paper. Could you go to the general store and buy me as much as you can carry? I'd go, but my back is bad, you see.
+
+*Just after you buy out TP*
+Leif: Stocking up in case of a quarantine? Not a bad plan as long as you leave some for everyone else. Hoarding doesn't help anyone. I'll have to talk to Aliza, see about replenishing my stock.
+
+Trusty:
+	Did you get it?
+>Nope.
+	Hurry up!
+>Here you go.
+	Excellent! Now all we have to do is wait?
+>Wait for what?
+	For the shelter in place order. Desperate hoarders will pay a lot of money for this stuff. In a few days this will be white squishy gold, my friend.
+>Cool. I'm getting a cut, right?
+	Keke! I knew you were a smart one. Steer potential buyers to me and you'll get your fair share at the end.
+>That's horrible! Taking advantage of people in a crisis!
+	And you helped me do it. In a few days everyone will know YOU bought out the last of the stock. Mess with me and I'll leave and hang you out to dry. Steer potential buyers to me and you'll get your fair share at the end.
+>...fine.
+>I'll stop you somehow!
+	Kekeke! Good luck with that, kid!
+
+
