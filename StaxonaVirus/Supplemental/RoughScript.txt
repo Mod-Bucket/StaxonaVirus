@@ -71,11 +71,49 @@ Trusty:
 >I'll stop you somehow!
 	Kekeke! Good luck with that, kid!
 
-The next day 6-10 new NPCs will spawn. I'll probably write unique stuff for some of them. But this is generic:
+The next day 6-10 new NPCs will spawn and Aliza will be home (in bed if we can manage it.) I'll probably write unique stuff for some of them. But this is generic:
 
 They're out of toilet paper and soap! I've gone to three different islands today alone and no one has any toilet paper!
 > Doctor Ceecee had soap.
 
-She only gave me one measly bar! 
+She only gave me one measly bar! They're talking about restricting us to home for a month!
+> How fast can you go through a bar of soap?
+
+That's not the point. I might run out! And there still isn't any toilet paper and I'm already out of that!
+> I might know a guy...
+
+WHO!? WHERE?! Tell me now before the others hear!
+
+>Leif.
+That's not funny! He's out!
+
+>Trusty.
+Okay. I'll talk to him. Thanks. Don't tell anyone else until I get some. I don't want him to run out.
+
+
+Talking to most villagers:
+Every time flu season rolls around the crazy hoarders come out. 
+Buying up everything doesn't help anyone. Even if Max does have to order everyone to stay at home we can still go shopping.
+
+Rowan or Riah will say:
+Oh, yeah Max had to order us to stay at home a few years before you got here because of that nasty tropical cold. It was fine...well the cold wasn't. That was nasty, but we all dealt with it.
+Leif was down with that tropical bug for two weeks. We just left the store open and ran it on the honor system.
+
+Max will say:
+I was hoping I wouldn't have to order a stay at home decision this year, but it might be safer to shut down the airship dock so we aren't flooded with people trying to buy Aliza's toilet paper. 
+Have you seen Aliza today? I was going to talk to her about an extra delivery...
+
+Leif will say:
+No! I don't have any toilet paper! Oh, hi <playername>. Sorry, all these people are very stressful. It's like they think the shelves just magically materialize stuff. It's been too busy for me to go get my delivery from Aliza. I guess she's been too busy to deliver it. Would you mind picking it up for me if you see her?
+
+
+Aliza:
+Cough cough HAA-CHOOO! I feel awful. Ya need sumthin? Toilet paper? I was going to make some today but I woke up with a fever and the aches. I can barely make it to the bathroom. I'm just not up fer filling Leif's order for more.
+
+>Can I help?
+
+Ya really want ta? Thanks <playername> much appreciated. Here, these are all the instructions you'll need. You'll need twenty rolls to fill his order. Make the supply shelf too so he has a place to put it all. I'll stock the rest when I'm feeling better.
+
+
 
 
