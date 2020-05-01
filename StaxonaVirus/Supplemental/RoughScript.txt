@@ -71,49 +71,159 @@ Trusty:
 >I'll stop you somehow!
 	Kekeke! Good luck with that, kid!
 
-The next day 6-10 new NPCs will spawn and Aliza will be home (in bed if we can manage it.) I'll probably write unique stuff for some of them. But this is generic:
+The next day 6-10 new NPCs will spawn and Aliza will be home (in bed if we can manage it. Talking to basically ANYONE after this point will cause a Shelter In Place letter to appear in the player's mailbox the next day.) I'll probably write unique stuff for some NPCs. But this is generic:
 
-They're out of toilet paper and soap! I've gone to three different islands today alone and no one has any toilet paper!
+Generic NPC:
+	They're out of toilet paper and soap! I've gone to three different islands today alone and no one has any toilet paper!
 > Doctor Ceecee had soap.
 
-She only gave me one measly bar! They're talking about restricting us to home for a month!
+	She only gave me one measly bar! They're talking about restricting us to home for a month!
 > How fast can you go through a bar of soap?
 
-That's not the point. I might run out! And there still isn't any toilet paper and I'm already out of that!
+	That's not the point. I might run out! And there still isn't any toilet paper and I'm already out of that!
 > I might know a guy...
 
-WHO!? WHERE?! Tell me now before the others hear!
-
+	WHO!? WHERE?! Tell me now before the others hear!
 >Leif.
-That's not funny! He's out!
-
+	That's not funny! He's out!
 >Trusty.
-Okay. I'll talk to him. Thanks. Don't tell anyone else until I get some. I don't want him to run out.
+	Okay. I'll talk to him. Thanks. Don't tell anyone else until I get some. I don't want him to run out.
 
+(Talking to the same NPC again will result in this:)
+	Two Thousand Petals! For ONE ROLL! It's airship robbery I tell you! 
+>You're absolutely right! I'll go find a different supplier. (NPC will stay.)
+>You could probably haggle a little to get him to drop the price.
+	I'd have to haggle a lot to get it down to something reasonable!
+	>Is there some other island you could buy it on?
+		I could try Winton Island... (NPC will leave if the shelter order is not in place.)
+	>Let me see if I can't argue him down to a reasonable price.
+		Hrmph! Good luck! And hurry up, I need to use the bathroom. (NPC will stay.)
+
+Talking to Trusty after this:
+	Need something?
+>Reduce prices.
+	I'm in this to make money, kid. 
+	>They're going to other islands.
+		They are? Hm.... Alright. I'll drop it some. But it's coming out of your cut. (Convincing an NPC to buy from Trusty after this will cause them to leave town.)
+	>I'll find another source and cut you out entirely.
+		Kekeke! Fat chance.
+
+NPC after Trusty reduces prices:
+	One Thousand Petals! For ONE ROLL! It's obscene!
+>You're absolutely right! I'll go find a different supplier. (NPC will stay.)
+>Is there some other island you could buy it on?
+	I could try Winton Island... (NPC will leave if the shelter order is not in place.)
+>It's the best deal you're going to find around here. No one else has any.
+	Well...I suppose I'll just have to use both sides. (NPC will leave if the shelter order is not in place.)
 
 Talking to most villagers:
-Every time flu season rolls around the crazy hoarders come out. 
-Buying up everything doesn't help anyone. Even if Max does have to order everyone to stay at home we can still go shopping.
+	Every time flu season rolls around the crazy hoarders come out. 
+	Buying up everything doesn't help anyone. Even if Max does have to order everyone to stay at home we can still go shopping.
 
-Rowan or Riah will say:
-Oh, yeah Max had to order us to stay at home a few years before you got here because of that nasty tropical cold. It was fine...well the cold wasn't. That was nasty, but we all dealt with it.
-Leif was down with that tropical bug for two weeks. We just left the store open and ran it on the honor system.
+Rowan, farm fan, or Riah will say:
+	Oh, yeah Max had to order us to stay at home a few years before you got here because of that nasty tropical cold. It was fine...well the cold wasn't. That was nasty, but we all dealt with it.
+	Leif was down with that tropical bug for two weeks. We just left the store open and ran it on the honor system.
 
 Max will say:
-I was hoping I wouldn't have to order a stay at home decision this year, but it might be safer to shut down the airship dock so we aren't flooded with people trying to buy Aliza's toilet paper. 
-Have you seen Aliza today? I was going to talk to her about an extra delivery...
+	I was hoping I wouldn't have to issue a stay at home order this year, but it might be safer to shut down the airship dock so we aren't flooded with people trying to buy Aliza's toilet paper. 
+	Have you seen Aliza today? I was going to talk to her about an extra delivery...
 
 Leif will say:
-No! I don't have any toilet paper! Oh, hi <playername>. Sorry, all these people are very stressful. It's like they think the shelves just magically materialize stuff. It's been too busy for me to go get my delivery from Aliza. I guess she's been too busy to deliver it. Would you mind picking it up for me if you see her?
-
+	No! I don't have any toilet paper! Oh, hi <playername>. Sorry, all these people are very stressful. It's like they think the shelves just magically materialize stuff. It's been too busy for me to go get my delivery from Aliza. I guess she's been too busy to deliver it. Would you mind picking it up for me if you see her?
 
 Aliza:
-Cough cough HAA-CHOOO! I feel awful. Ya need sumthin? Toilet paper? I was going to make some today but I woke up with a fever and the aches. I can barely make it to the bathroom. I'm just not up fer filling Leif's order for more.
+	Cough cough HAA-CHOOO! I feel awful. 
+	Not going to be in the store taday. You know where the till is. I trust ya.(This is all she will say until Leif or Max have talked to you about her. Once they tell you about her toilet paper:)
+>Toilet paper?
+	Toilet paper? I was going to make some today but I woke up with a fever and the aches. I can barely make it to the bathroom. I'm just not up fer filling Leif's order for more.
 
 >Can I help?
+	Ya really want ta? Thanks <playername> much appreciated. Here, these are all the instructions you'll need. You'll need twenty rolls to fill his order. I'll make the rest of his order when I'm feeling better. <gives recipe for toilet paper>
 
-Ya really want ta? Thanks <playername> much appreciated. Here, these are all the instructions you'll need. You'll need twenty rolls to fill his order. Make the supply shelf too so he has a place to put it all. I'll stock the rest when I'm feeling better.
+Doctor Ceecee:
+	Hello <playername> I'm so glad you stopped by! I need blood samples from infected people to help make a vaccine. Could you go do some wellness checks around town? Three samples would be great. More would be better.
+>Nope.
+	I'll try to see if I can get it done without your help, but the sooner I get the samples the faster this will be over!
+>Sure...
+	If anyone's coughing or has a fever see if you can get a blood sample. <Gives syringe. Gives thermometer> Don't forget to wear your mask!
+
+(I'm not sure if it will be possible to make all the TP you need to make all the NPCs happy on the first day. but the player could definitely get rid of them all by haggling them down or convincing them to leave on the first day. Aliza is the only person you can get a sample from on the day before the shelter order. Leif and Max will both be sick the day the shelter order goes out.)
+
+By order of the Crown:
+
+All residents of the kingdom are to shelter in their homes and not leave except to do essential work such as running a store that sells food or supplies, caring for animals, tending crops, or seeking medical help. Maintain a two meter distance from other people if at all possible.
+
+Airships will refrain from transporting anything but essential goods and emergency personnel.
+
+This applies to all visitors and residents of Staxel.
+
+Mayor Maximillian
+
+Talking to Generic NPCs:
+	I can't go home! I'm crammed into this horrible tiny room in this dingy tavern! All I wanted to do was buy some toilet paper!
+	>Do you want some?
+	What's the point! I can't go use it at home! The airships aren't flying for anything but emergency business.
 
 
+Talking to Generic Sick NPCs:
+	I can't go home! *cough! cough!* All I wanted to do was buy some toilet paper!
+>Do you want some?
+	What's the point! I can't go use it at home! And it's so cold here!
+
+>Wellness check.
+	What? Oh, fine. <Equips thermometer><Removes thermometer>
+	A fever. Great. Now I'm sick on top of everything else.
+
+>Blood sample.
+	Seriously? ...For a cure, huh? Fine. Go ahead.
+
+Talking to Rowan:
+	(If there are more than 2 Generic NPCs left on the island) <Playername>! I've had to pack everyone in like sardines! This isn't safe or healthy. I can't keep this many people at the tavern. Go talk to Max about letting people leave or the whole town's going to catch it! 
+	(Says no matter what) We have to help Doctor Ceecee with anything she needs. Leif's down sick just like Aliza, so both stores are on the honor system for now. 
+
+Talking to Leif:
+	Uuuugh. Go away. Let me die in peace. 
+>Blood sample.	
+	Whatever. *cough cough*
+
+Talking to Aliza (all of her previous options about TP if they haven't happened):
+	Cough cough HAA-CHOOO! I feel awful. 
+>Blood sample.	
+	Yeh need some blood for the vampires to make a cure? Sure. Can't hurt worse than it does now.
+
+Talking to Max:
+	Shook too many hands and kissed too many babies. *cough*
+>Blood sample.
+	Right. Have at it. Good thing I called in Doctor Ceecee...'s why I'm the mayor...*cough cough*
+>Airship
+	Not much I can do about letting people leave. *cough* Tell Rowan to set them up in City hall, and not to worry about expenses. This is why we have a treasury after all. *hack hack cough!*
+
+Talking to Rowan:
+	Use City Hall? Good plan. I'll go borrow some sleeping bags from the store and try to convince people to move over there. But this lot is ornery. Wish me luck and go help Ceecee end this thing.
+
+Talking to Trusty:
+	Go away! I don't want to get sick too!
+
+Talking to Ceecee:
+
+>I've got the blood samples!
+	Excellent! I'll get these off to Cecile and we'll hammer out a vaccine! Talk to me tomorrow and I'll update you.
+
+(The next day)
+
+Talking to Ceecee:
+	Great news! Some crazy witch dropped by and helped. We not only have a vaccine, we've got a Panacea potion that should help people who've already got it get over it faster! Hold still! 
+>Ouch!
+	Here.<gives enough potion and vaccines to cure everyone in town> Go make sure everyone's got whichever one they need and bring back the extras!
+
+Talking to Max:
+	*cough cough*
+>Give Panacea
+	Thanks <playername> Once you've cured or vaccinated people, let them know they can go home on the airship. I'll lift the order once Dr. Ceecee tells me you've gotten everyone.
+
+
+Generic NPCs go back to wanting TP like they did before the shelter in place once they've been vaccinated or cured. If the player offers them TP for free they'll give the player a Golden Voucher.
+
+ 
 
 
