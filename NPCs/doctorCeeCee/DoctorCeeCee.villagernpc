@@ -1,0 +1,8 @@
+{
+  "code": "mods.mb.StaxonaVirus.markgrant.character.DoctorCeeCee",
+  "name": "CeeCee",
+  "personality": "mods.mb.StaxonaVirus.markgrant.personality.DoctorCeeCee",
+  "initialDesign": "staxel.village.design.VillagerFemale",
+  "initialOutfit": "mods.mb.StaxonaVirus.markgrant.outfit.DoctorCeeCee",
+  "acceptsGift": false
+}

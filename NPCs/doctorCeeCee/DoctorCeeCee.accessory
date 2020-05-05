@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.StaxonaVirus.markgrant.accessories.fullBodyOutfits.villager.DoctorCeeCee",
+  "kind": "Shirt",
+  "model": "mods/StaxonaVirus/NPCs/doctorCeeCee/DoctorCeeCeeOutfit.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

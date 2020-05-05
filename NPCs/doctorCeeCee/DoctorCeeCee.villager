@@ -1,0 +1,7 @@
+{
+  "code": "mods.mb.StaxonaVirus.markgrant.personality.DoctorCeeCee",
+  "idleScript": "staxel.script.ChillAtTownSquareScript",
+  "primaryDialogue": "mods.mb.StaxonaVirus.markgrant.dialogue.DoctorCeeCee",
+  "canGiveQuests": false,
+  "canOverrideBehaviour": true
+}

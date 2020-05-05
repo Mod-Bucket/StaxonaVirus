@@ -1,0 +1,14 @@
+{
+  "code": "mods.mb.StaxonaVirus.markgrant.job.DoctorCeeCee",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "workPlaceTools": "staxel.tileObject.villagers.rewards.Vorlen.VorlensPocketWatch",
+  "primaryDialogue": "mods.mb.StaxonaVirus.markgrant.dialogue.DoctorCeeCee",
+  "workOvernight": true,
+  "weightedScripts": [
+    {
+      "script": "staxel.script.ChillAtTownSquareScript",
+      "weight": 25.0
+    }
+  ]
+}
