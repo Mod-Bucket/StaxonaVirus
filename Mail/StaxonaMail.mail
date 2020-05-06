@@ -1,0 +1,37 @@
+{
+  "kind": "staxel.mail.item",
+  "icon": "mods/StaxonaVirus/mail/StaxonaLetterIcon.png",
+  "readIcon": "mods/StaxonaVirus/mail/StaxonaLetterIconOpen.png",
+  "code": "mods.mb.StaxonaVirus.markgrant.mail",
+  "sender": "mods.mb.StaxonaVirus.markgrant.sender.ModBucket",
+  "subject": "mods.mb.StaxonaVirus.markgrant.mail.subject",
+  "body": "mods.mb.StaxonaVirus.markgrant.mail.body",
+  "postDatedMail": {
+    "startDay": 6,
+    "startMonth": 5,
+    "startYear": 2020,
+    "endDay": 31,
+    "endMonth": 12,
+    "endYear": 2030,
+    "repeatYearly": false
+  },  "itemMail": {
+    "claimedIcon": "mods/StaxonaVirus/mail/StaxonaLetterIconOpen.png",
+    "items": [
+      {
+        "kind": "staxel.item.Placer",
+        "tile": "mods.mb.StaxonaVirus.markgrant.NurseTable",
+        "quantity": 1
+      },
+      {
+        "kind": "staxel.item.Placer",
+        "tile": "mods.mb.StaxonaVirus.markgrant.NurseTent",
+        "quantity": 1
+      },
+      {
+        "kind": "staxel.item.Placer",
+        "tile": "mods.mb.StaxonaVirus.markgrant.totems.NurseSign",
+        "quantity": 1
+      }
+    ]
+  }
+}

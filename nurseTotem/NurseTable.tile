@@ -1,0 +1,35 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "Max",
+	"harvest",
+    "festival",
+    "judge",
+	"judging",
+	"table"
+  ],
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": false,
+    "sellPrice": 10,
+    "value": 1300
+  },
+  "code": "mods.mb.StaxonaVirus.markgrant.NurseTable",
+  "front":{
+    "x": 0,
+    "y": 0,
+    "z": 1
+  },
+  "searchable": true,
+  "canBeGifted": false,
+  "randomizePosition": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/StaxonaVirus/nurseTotem/NurseTable.qb"
+}

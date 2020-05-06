@@ -7,28 +7,24 @@
     "z": 5
   },
   "centreOffset": {
-    "x": 5,
+    "x": 6,
     "y": 2,
     "z": 0
   },
   "tiers": 1,
-  "requiredCategories": {
-    "tier0": [
-      {
-        "category": "table",
-        "count": 1,
-        "requirePlaced": true
-      }
-    ]
-  },
   "requiredObjects": {
     "tier0": [
       {
         "code": "mods.mb.StaxonaVirus.markgrant.NurseTent",
         "count": 1,
         "requirePlaced": true
+      },
+      {
+        "code": "mods.mb.StaxonaVirus.markgrant.NurseTable",
+        "count": 1,
+        "requirePlaced": true
       }
-    ]
+	  ]
   },
 
   "requiresRoof": false,
@@ -37,4 +33,5 @@
   "notTown": true,
   "showOnMap": true,
   "warningNotification": "staxel.notifications.totem.FestivalTotem",
+  "villagerSpawner": "mods.mb.StaxonaVirus.markgrant.character.DoctorCeeCee"
 }

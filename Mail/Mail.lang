@@ -1,0 +1,6 @@
+language.code=en-GB
+language=English
+
+mods.mb.StaxonaVirus.markgrant.sender.ModBucket=Mod Bucket Team
+mods.mb.StaxonaVirus.markgrant.mail.subject=☣Medical Alert☣
+mods.mb.StaxonaVirus.markgrant.mail.body=Greetings ^c:1486b0;$playername;^c:pop;! \n\nThe flu this year is supposed to be extra nasty, so I've made arrangements for a doctor to come by and take care of the town. She'll need an office to work out of though, so could you set something up? \n\nMaybe put it near the airship docks so she can check people coming into town? \n\nRegards, \n^c:1486b0;Mod Bucket Team;^c:pop;
