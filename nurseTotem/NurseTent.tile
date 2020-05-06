@@ -1,10 +1,12 @@
 {
   "__inherits": "staxel/tileObject/base.config",
   "categories": [
+    "staxona",
+    "mod bucket",
+	"medical",
+	"hospital",
     "furniture",
-    "green",
-    "checkers",
-    "set",
+    "pink",
     "bed",
     "sleep",
     "single"

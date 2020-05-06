@@ -1,6 +1,11 @@
 {
   "__inherits": "staxel/tileObject/moveable.config",
   "categories": [
+    "staxona",
+    "mod bucket",
+	"toilet",
+	"paper",
+	"stack",
     "furniture"
   ],
   "code": "mods.mb.StaxonaVirus.lydocia.ToiletPaper.Stack",

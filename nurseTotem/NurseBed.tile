@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/docks/SingleBed.config",
+  "categories": [
+    "staxona",
+    "mod bucket",
+	"medical",
+	"hospital",
+    "furniture",
+    "bed",
+    "bunk",
+    "sleep",
+    "single",
+    "purple",
+	"pink",
+	"green",
+	"blue",
+	"metal"
+  ],
+  "code": "mods.mb.StaxonaVirus.NurseBed",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 2,
+      "z": 3
+    },
+    "specification": "CCC CCC CCCCCC CXC CCC"
+  },
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 5,
+    "value": 200
+  },
+  "searchable": true,
+  "voxels": "staxel/tileObject/serverVillage/Bed_single_purple.qb"
+}

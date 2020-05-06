@@ -1,11 +1,10 @@
 {
   "__inherits": "staxel/tileObject/base.config",
   "categories": [
-    "Max",
-	"harvest",
-    "festival",
-    "judge",
-	"judging",
+    "staxona",
+    "mod bucket",
+	"medical",
+	"hospital",
 	"table"
   ],
   "compound": {

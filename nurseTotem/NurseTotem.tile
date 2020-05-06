@@ -2,6 +2,10 @@
   "__inherits": "staxel/tileObject/totems/totemBase.config",
   "attachToBelow": true,
   "categories": [
+    "staxona",
+    "mod bucket",
+	"medical",
+	"hospital",
     "misc",
     "totem",
     "sign"
