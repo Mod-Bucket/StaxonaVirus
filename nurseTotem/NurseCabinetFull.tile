@@ -5,6 +5,8 @@
     "mod bucket",
 	"medical",
 	"hospital",
+	"medicine",
+	"potion",
     "furniture",
     "container",
     "storage",
@@ -17,7 +19,7 @@
     "double",
     "white"
   ],
-  "code": "mods.mb.StaxonaVirus.NurseCabinet",
+  "code": "mods.mb.StaxonaVirus.NurseCabinetFull",
   "compound": {
     "size": {
       "x": 1,
@@ -33,5 +35,5 @@
   },
   "searchable": true,
   "stepSoundGroup": "staxel.sounds.WoodFootSteps",
-  "voxels": "mods/StaxonaVirus/nurseTotem/NurseCabinet.qb"
+  "voxels": "mods/StaxonaVirus/nurseTotem/NurseCabinetFull.qb"
 }
