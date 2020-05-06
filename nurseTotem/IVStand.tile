@@ -1,0 +1,32 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "staxona",
+    "mod bucket",
+	"medical",
+	"hospital",
+	"medicine",
+	"nurse",
+	"potion",
+    "furniture",
+	"metal"
+  ],
+  "code": "mods.mb.StaxonaVirus.IVStand",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    },
+  },
+  "pathFindingNoCollision": true,
+  "pathFindingPenalty": 500,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 180,
+    "value": 300
+  },
+  "searchable": true,
+  "voxels": "mods/StaxonaVirus/nurseTotem/IVStand.qb"
+}
