@@ -28,10 +28,11 @@
   },
 
   "requiresRoof": false,
-  "isFestivalTotem": true,
+  //"isFestivalTotem": true,
   "dontOverlapAny": true,
   "notTown": true,
-  "showOnMap": true,
+  //"showOnMap": true,
   "warningNotification": "staxel.notifications.totem.FestivalTotem",
-  "villagerSpawner": "mods.mb.StaxonaVirus.markgrant.character.DoctorCeeCee"
+  "villagerSpawner": "mods.mb.StaxonaVirus.markgrant.DoctorCeeCeeSpawner",
+  "villagerArrivalTier": "None"
 }

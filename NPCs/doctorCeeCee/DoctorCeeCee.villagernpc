@@ -4,5 +4,6 @@
   "personality": "mods.mb.StaxonaVirus.markgrant.personality.DoctorCeeCee",
   "initialDesign": "staxel.village.design.VillagerFemale",
   "initialOutfit": "mods.mb.StaxonaVirus.markgrant.outfit.DoctorCeeCee",
+  "homeTotem": "mods.mb.StaxonaVirus.markgrant.totem.Nurse",
   "acceptsGift": false
 }
