@@ -1,0 +1,48 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachToBelow": false,
+  "attachmentDirections": [
+    "yn",
+    "yp",
+    "xp",
+    "zp",
+    "xn",
+    "zn"
+  ],
+  "categories": [
+    "staxona",
+    "mod bucket",
+	"medical",
+	"hospital",
+	"tent",
+    "EF",
+    "EFCross",
+    "cross"
+  ],
+  "code": "mods.mb.StaxonaVirus.Tent.PavilionTentTealCross",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 3,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xp",
+    "zp",
+    "xn",
+    "zn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.mb.StaxonaVirus.Tent.PavilionTentTealStraight",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/StaxonaVirus/nurseTotem/Tent/PavilionTentTealCross.qb"
+}

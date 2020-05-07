@@ -27,8 +27,10 @@ toketsupuurin:
 - writing
 - Dr Ceecee's model
 - other furniture
+- tent
 
 ==========
 
 Version 0.1
-- Added Dr. Ceecee and nursing furniture.
+- Added Dr. Ceecee and medical furniture.
+- Added medical tent

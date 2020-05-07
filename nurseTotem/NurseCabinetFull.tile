@@ -15,16 +15,16 @@
     "cupboard",
     "pantry",
     "wardrobe",
-    "credenza"
+    "credenza",
     "double",
     "white"
   ],
   "code": "mods.mb.StaxonaVirus.NurseCabinetFull",
   "compound": {
     "size": {
-      "x": 1,
+      "x": 2,
       "y": 3,
-      "z": 2
+      "z": 1
     }
   },
   "pricing": {
