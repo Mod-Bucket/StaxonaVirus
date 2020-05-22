@@ -1,0 +1,252 @@
+{
+  "docks": {
+    "count": 0
+  },
+  "mapping": {
+    "FF17C5A9": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF193453": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealCorner",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF2B7238": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF39E999": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_InnerCorner_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF3D8893": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_OuterCorner_Teal",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF3FD9BE": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Teal",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF41D0B7": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_OuterCorner_Teal",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF48BBF8": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealEnd",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF49C3AA": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_InnerCorner_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF582680": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_OuterCorner_Teal",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF58A720": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.BushyFlowerSmall",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF5C4239": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_InnerCorner_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5DD309": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Teal",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF5EAFFD": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealStraight",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF5F7822": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.BushyFlower",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF637E22": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.BushyFlowerSmall",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF68A99C": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealEnd",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF6CC6E6": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_OuterCorner_Teal",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF739A92": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealStraight",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF7E6973": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_InnerCorner_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF83F406": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Teal",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF859DC7": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealCorner",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF89A39F": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealCorner",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FF9247C3": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealMiddle",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FF94869F": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.markgrant.NurseTable",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF95B6AC": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.NurseChair",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FF978F21": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FF9BB5BC": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.IVStand",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFA1C7B0": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealCorner",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFB4B6B6": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.NurseBed",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFD0E85A": {
+      "matches": false,
+      "material": "staxel.tile.grass.MeadowGrassLayer.2",
+      "requireEmpty": false,
+      "rotation": 0
+    },
+    "FFD76664": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealMiddle",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFD7DC32": {
+      "matches": false,
+      "material": "staxel.tileObject.serverVillage.exterior.BushyFlowerSmall",
+      "requireEmpty": false,
+      "rotation": 3
+    },
+    "FFDBDBD8": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.NurseCabinetFull",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFEDCD26": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealStraight",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF3F3F3": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.NurseCabinet",
+      "requireEmpty": false,
+      "rotation": 2
+    },
+    "FFF43BA8": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Upsidedown_Teal",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF46F24": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionTentTealMiddle",
+      "requireEmpty": false,
+      "rotation": 1
+    },
+    "FFF5124B": {
+      "matches": false,
+      "material": "mods.mb.StaxonaVirus.Tent.PavilionRoof_Normal_Straight_Teal",
+      "requireEmpty": false,
+      "rotation": 3
+    }
+  },
+  "origin": {
+    "x": -75,
+    "y": 27,
+    "z": 3
+  },
+  "size": {
+    "x": 11,
+    "y": 8,
+    "z": 14
+  },
+  "voxels": "importexport_20200522_2051_16042.qb"
+}
