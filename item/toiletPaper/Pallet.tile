@@ -1,0 +1,20 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "staxona",
+    "mod bucket",
+	"toilet",
+	"paper",
+	"pallet",
+    "furniture"
+  ],
+  "code": "mods.mb.StaxonaVirus.lydocia.ToiletPaper.Pallet",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 1,
+    "value": 5000
+  },
+  "searchable": true,
+  "voxels": "mods/StaxonaVirus/item/toiletPaper/Pallet.qb"
+}

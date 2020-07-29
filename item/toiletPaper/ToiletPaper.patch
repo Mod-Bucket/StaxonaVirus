@@ -1,0 +1,7 @@
+{
+    "file": "staxel/tileObject/themedfurniture/bathroom/ToiletPaper.tile",
+    "priority": 2,
+    "patch" : {
+		"value": 120
+	}
+}
